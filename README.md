@@ -3,7 +3,7 @@
 How many tries does it take you to beat the AI?
 
 
-Drop the entire folder in Pycharm or another Python interpreter, make sure to 'pip install pygame'.
+Drop the entire 'Game' folder in Pycharm or another Python interpreter, make sure to 'pip install pygame'.
 
 Run the "main" file
 
